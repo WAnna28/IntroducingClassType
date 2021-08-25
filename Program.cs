@@ -7,8 +7,6 @@ namespace IntroducingClassType
     {
         static void Main()
         {
-            TestDefaultBankAccount dd = new TestDefaultBankAccount("a", "j", 5);
-            var ff = dd.Number;
             SimpleClassExample();
             DefaultConstructor();
             DefiningCustomConstructors();

@@ -12,7 +12,7 @@ namespace IntroducingClassType.Models
         // constructor is silently removed from the class and is no longer available.
         public TestDefaultBankAccount(string number, string owner, decimal balance)
         {
-           // Number = number;
+            Number = number;
             Owner = owner;
             Balance = balance;
         }
